@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "fiegn.client.config.default.loggerlevel",
+      "type": "java.lang.String",
+      "description": "Description for fiegn.client.config.default.loggerlevel."
+    },
+    {
+      "name": "feign.client.config.default.logger-level",
+      "type": "java.lang.String",
+      "description": "Description for feign.client.config.default.logger-level."
+    }
+  ] }
