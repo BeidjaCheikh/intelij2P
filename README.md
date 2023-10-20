@@ -4,7 +4,7 @@
 <h1>Beidja Cheikh</h1>
 <h1>Master SDIA2</h1>
 
-<img src="images/imgage.png"><br><br>
+<img src="images/image.png"><br><br>
 
 <h2>Consul</h2>
 <img src="images/img6.png"><br><br>
